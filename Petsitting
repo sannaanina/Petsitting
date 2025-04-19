@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pettsiting - Tierbetreuung von Sanna-Anina Kindlimann</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        .services, .prices {
+            margin: 20px 0;
+        }
+        .service-item, .price-item {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen bei Pettsiting!</h1>
+        <p>Sanna-Anina Kindlimann – Deine Tierbetreuung mit Herz</p>
+    </header>
+
+    <section>
+        <h2>Über mich</h2>
+        <p>Ich betreue deine Tiere, als wären sie meine eigenen – fürsorglich, zuverlässig und mit viel Liebe. Ganz gleich, ob du stundenweise, den ganzen Tag oder sogar die ganze Woche Unterstützung brauchst, ich bin für dein Tier da!</p>
+    </section>
+
+    <section class="services">
+        <h2>Dienstleistungen</h2>
+        <div class="service-item">
+            <h3>Stundenbetreuung</h3>
+            <p>Du brauchst jemandem für ein paar Stunden Gesellschaft für dein Tier?</p>
+        </div>
+        <div class="service-item">
+            <h3>Tagesbetreuung</h3>
+            <p>Du benötigst zuverlässige Betreuung für dein Haustier während des Tages?</p>
+        </div>
+        <div class="service-item">
+            <h3>Wochenbetreuung</h3>
+            <p>Dein Haustier benötigt eine längere Betreuung über die ganze Woche? Ich biete eine zuverlässige und liebevolle Wochenbetreuung für 50.00 Fr. an, damit dein Tier gut versorgt ist, während du beschäftigt bist.</p>
+        </div>
+    </section>
+
+    <section class="prices">
+        <h2>Preise</h2>
+        <div class="price-item">
+            <p><strong>Stundenbetreuung:</strong> 10.00 Fr. pro Stunde</p>
+        </div>
+        <div class="price-item">
+            <p><strong>Tagesbetreuung:</strong> 25.00 Fr. pro Tag</p>
+        </div>
+        <div class="price-item">
+            <p><strong>Wochenbetreuung:</strong> 50.00 Fr. pro Woche</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Kontakt</h2>
+        <p>Hast du Fragen oder möchtest du eine Betreuung buchen?</p>
+        <p>E-Mail: <a href="mailto:sanna.anina02@gmail.com">sanna.anina02@gmail.com</a></p>
+        <p>Telefon: 0772618811</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Pettsiting | Sanna-Anina Kindlimann</p>
+    </footer>
+</body>
+</html>
